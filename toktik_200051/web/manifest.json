@@ -1,6 +1,6 @@
 {
-    "name": "toktik_210084",
-    "short_name": "toktik_210084",
+    "name": "toktik",
+    "short_name": "toktik",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
